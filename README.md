@@ -39,3 +39,6 @@ Furnaces tend to go out when we least expect it the most and furnace repair can 
 Refrigeration technicians and mechanics in the HVAC industry are the professionals who will create and maintain a climate-controlled environment in terms of temperature, air quality and humidity, in a variety of buildings, including homes, high-rise offices, factories, hospitals and shops. These professionals may sometimes be required to put together and install HVAC and refrigeration equipment as well as repair and maintain it in domestic, commercial or industrial settings. Contact us today for a free estimate at (925) 938-4822.
 
 ### Ventilation Cleaning
+![ductwork](https://user-images.githubusercontent.com/75657565/131201690-1f60c8da-93a5-4338-9399-8820f636acb8.jpg)
+
+From bath fans to gas appliances to chimneys and clothes dryers, Air Control Incorporated specializes in ventilation for your Lafayette California home. After air combustion takes place, it’s essential to ventilate harmful gases to the outdoors. Otherwise, they backdraft into your home and create a health hazard. Radon, a naturally occurring radioactive gas, is the second leading cause of lung cancer in the U.S. At Air Control Incorporated, we ventilate everything to code using proper design techniques and up-to-date safety standards.
