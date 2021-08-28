@@ -22,4 +22,10 @@ Air Control is a family-owned heating and air conditioning business based in Laf
 
 ## HVAC Installation & Repair Services
 
+### AC Repair
+![AirControl3](https://user-images.githubusercontent.com/75657565/131201335-d009ad06-71b8-41f0-a5bf-6e7b4c779666.jpeg)
+
+When the weather outside starts heating up, you don’t want to have to worry about whether or not your AC unit is going to work correctly. Count on the qualified technicians at Air Control Incorporated to ensure that your system is properly installed and that you and your loved ones will be cool and comfortable throughout the hot weather season. Our experienced technicians provide expert air conditioning installation services for your system. We will do our best to install a system that is both cost-efficient and energy-conserving.
+
+### Heating Repair
 
