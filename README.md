@@ -45,4 +45,6 @@ Refrigeration technicians and mechanics in the HVAC industry are the professiona
 From bath fans to gas appliances to chimneys and clothes dryers, Air Control Incorporated specializes in ventilation for your Lafayette California home. After air combustion takes place, it’s essential to ventilate harmful gases to the outdoors. Otherwise, they backdraft into your home and create a health hazard. Radon, a naturally occurring radioactive gas, is the second leading cause of lung cancer in the U.S. At Air Control Incorporated, we ventilate everything to code using proper design techniques and up-to-date safety standards.
 
 ## How users can make contact
+![Screen Shot 2021-08-27 at 6 24 53 PM](https://user-images.githubusercontent.com/75657565/131201964-ed1f3cfa-7cf0-474a-bc69-b7e43a211660.png)
 
+After a long search, I decided to use Formspree for my message page. The form is adjustable so a user is not limited to the amount of words that can be sent. Oftentimes, when it comes to HVAC repair, a user needs to go into detail so Air Control Incorporated can get to the root of the problem. 
