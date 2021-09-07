@@ -1,11 +1,10 @@
 # aircontrol_proj
 Family-owned heating/air conditioning biz serves its local community
 
-https://user-images.githubusercontent.com/75657565/132393297-28649a32-cc55-4b07-b6cb-580088f3d3a8.mp4
+https://user-images.githubusercontent.com/75657565/132409965-f93bb3c0-5593-4c1f-b138-acb24d363ac3.mp4
 
 ## Description
 Built this project from scratch, illustrating that this small HVAC business has been in operation for more than 30 years and it's been one of the mainstays of the Lamorinda and Central Contra Costa communities. These professionals specialize in satisfying its customers with heating and air conditioning installation and repairs to fridgeration and ventilation services.
-
 
 ## Getting started
 ![woman1](https://user-images.githubusercontent.com/75657565/131199051-6c7a0189-b270-4ef7-adbf-7e07034bbb7f.png) ![manheater](https://user-images.githubusercontent.com/75657565/131199181-84f12ce6-6639-46f9-aca8-b11d6a2900ae.png)
